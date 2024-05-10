@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanassehgal&label=Profile%20views&color=0e75b6&style=flat" alt="maanassehgal" /> </p>
 
-- 🌱 I’m currently learning **Java (Data Structures and Algorithms), Next.JS, TypeScript**
+- 🌱 I’m currently learning on **Java (Data Structures and Algorithms), Next.JS, TypeScript**
 
 - 💬 Ask me about **DSA, MERN**
 
