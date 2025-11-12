@@ -2,7 +2,7 @@
 <h3 align="center">Problem Solver • Full Stack Developer</h3>
 <img align="right" alt="Coding Gif" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif">
 
-- 🏆 Codeforces Specialist (1440) | CodeChef 3★ (1650) | LeetCode 1716  
+- 🏆 Codeforces Specialist (1440) | CodeChef 3★ (1650) | Knight (1870+) Leetcode  
 
 - 💻 Currently interning at **TLE Eliminators**, Ex-Intern @ **Codolio**  
 
