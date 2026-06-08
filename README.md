@@ -2,7 +2,7 @@
 
 I'm a Software Engineer focused on backend systems, distributed architecture, and developer tooling.
 
-I've built and scaled [Codeforces Lite](https://chromewebstore.google.com/detail/codeforces-lite/lfhiamljnjmmdljdcdjdmdgagbjjeimp), a Chrome extension for competitive programmers, to 10,000+ users, a 4.82⭐ rating, and 500K+ submissions processed in production.
+I've built and scaled [Codeforces Lite](https://chromewebstore.google.com/detail/codeforces-lite-dark-mode/hgcgfmgjkfjmhoebifgmbfipinkkjgco), a Chrome extension for competitive programmers, to 10,000+ users, a 4.82⭐ rating, and 500K+ submissions processed in production.
 
 I'm currently at TLE Eliminators, where I've owned and shipped things like a distributed Redis locking system, an OAuth 2.0 + OpenID Connect verification system, calendar roadmap and Google Calendar sync pipelines for 28K+ users, and more. Most of my recent work is in private repos. I've been a core developer on TLE Prime, building systems from scratch, designing the microservice architecture, taking design decisions, and being involved across the full development lifecycle from design discussions to implementation.
 
